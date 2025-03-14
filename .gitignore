@@ -38,4 +38,4 @@ compile_commands.json
 
 *.log
 
-!assets/**/*
+!**/assets/*
