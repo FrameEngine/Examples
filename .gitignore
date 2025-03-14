@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+#build
+build/
+.cache/
+compile_commands.json
+
+*.log
+
+!assets/**/*
